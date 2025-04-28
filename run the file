@@ -1,0 +1,2 @@
+javac -cp ".;mongodb-driver-sync-5.3.1.jar;mongodb-driver-core-5.3.1.jar;bson-5.3.1.jar" *.java
+java -cp ".;mongodb-driver-sync-5.3.1.jar;mongodb-driver-core-5.3.1.jar;bson-5.3.1.jar" BloodBankManagementSystem
